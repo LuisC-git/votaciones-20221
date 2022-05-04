@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es" >
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href=<?php echo $recursos_bs_css ?>>
+    <link rel="stylesheet" href=<?php  echo $recursos_visi_css   ?>>
+    
+
+    <link rel="stylesheet" href=<?php  echo $recursos_operador_css   ?>>
+    <link rel="stylesheet" href=<?php  echo$recursos_f_css   ?>>
+</head>
